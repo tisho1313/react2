@@ -1,0 +1,28 @@
+{
+    "remote.SSH.remotePlatform": {
+        "Docker-station": "linux",
+        "WSCode-ws-2019-core-03": "windows",
+        "U2-Custom": "linux",
+        "192.168.0.62": "linux",
+        "192.168.0.182": "windows",
+        "192.168.0.157": "windows",
+        "192.168.0.168": "windows",
+        "192.168.0.151": "windows",
+        "192.168.0.145": "linux",
+        "192.168.0.147": "windows",
+        "192.168.0.179": "windows",
+        "20.82.7.172": "linux",
+        "192.168.0.143": "linux",
+        "192.168.0.114": "linux"
+    },
+    "powerShellUniversal.samplesDirectory": "C:\\Users\\Administrator\\AppData\\Roaming",
+    "git.ignoreMissingGitWarning": true,
+    "powershell.promptToUpdatePowerShell": false,
+    "workbench.tree.indent": 26,
+    "git.openRepositoryInParentFolders": "never",
+    "workbench.colorTheme": "Visual Studio 2019 Dark",
+    "python.createEnvironment.trigger": "off",
+    "editor.fontSize": 16,
+    "editor.largeFileOptimizations": false,
+    "explorer.sortOrder": "modified"
+}

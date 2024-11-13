@@ -1,0 +1,81 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to /tmp/code-881c5e40-5fe3-4bd1-ae4b-a23817ae6fc2
+Extension host agent listening on /tmp/code-881c5e40-5fe3-4bd1-ae4b-a23817ae6fc2
+
+[14:01:21] 
+
+
+
+
+[14:01:21] Extension host agent started.
+[14:01:21] Started initializing default profile extensions in extensions installation folder. file:///home/tisho/.vscode-server/extensions
+[14:01:21] [<unknown>][38ed928a][ExtensionHostConnection] New connection established.
+[14:01:21] [<unknown>][2cde7190][ManagementConnection] New connection established.
+[14:01:21] [<unknown>][38ed928a][ExtensionHostConnection] <2405> Launched Extension Host Process.
+[14:01:21] Completed initializing default profile extensions in extensions installation folder. file:///home/tisho/.vscode-server/extensions
+[14:01:33] Getting Manifest... ms-azuretools.vscode-azurestaticwebapps
+[14:01:33] Installing extension: ms-azuretools.vscode-azurestaticwebapps {
+  isMachineScoped: false,
+  installPreReleaseVersion: false,
+  pinned: false,
+  donotVerifySignature: false,
+  context: { clientTargetPlatform: 'win32-x64' },
+  installOnlyNewlyAddedFromExtensionPack: true,
+  isApplicationScoped: false,
+  profileLocation: vr {
+    scheme: 'file',
+    authority: '',
+    path: '/home/tisho/.vscode-server/extensions/extensions.json',
+    query: '',
+    fragment: '',
+    _formatted: 'file:///home/tisho/.vscode-server/extensions/extensions.json',
+    _fsPath: '/home/tisho/.vscode-server/extensions/extensions.json'
+  },
+  productVersion: { version: '1.95.2', date: '2024-11-07T11:07:22.054Z' }
+}
+[14:01:33] Getting Manifest... ms-azuretools.vscode-azureresourcegroups
+[14:01:33] Installing extension: ms-azuretools.vscode-azureresourcegroups {
+  isMachineScoped: false,
+  installPreReleaseVersion: false,
+  pinned: false,
+  donotVerifySignature: false,
+  context: {
+    clientTargetPlatform: 'win32-x64',
+    dependecyOrPackExtensionInstall: true
+  },
+  installOnlyNewlyAddedFromExtensionPack: true,
+  isApplicationScoped: false,
+  profileLocation: vr {
+    scheme: 'file',
+    authority: '',
+    path: '/home/tisho/.vscode-server/extensions/extensions.json',
+    query: '',
+    fragment: '',
+    _formatted: 'file:///home/tisho/.vscode-server/extensions/extensions.json',
+    _fsPath: '/home/tisho/.vscode-server/extensions/extensions.json'
+  },
+  productVersion: { version: '1.95.2', date: '2024-11-07T11:07:22.054Z' }
+}
+[14:01:36] Extension signature verification result for ms-azuretools.vscode-azureresourcegroups: Success. Executed: true. Duration: 1905ms.
+[14:01:36] Extracted extension to file:///home/tisho/.vscode-server/extensions/ms-azuretools.vscode-azureresourcegroups-0.9.9: ms-azuretools.vscode-azureresourcegroups
+[14:01:37] Extension signature verification result for ms-azuretools.vscode-azurestaticwebapps: Success. Executed: true. Duration: 1933ms.
+[14:01:37] Renamed to /home/tisho/.vscode-server/extensions/ms-azuretools.vscode-azureresourcegroups-0.9.9
+[14:01:37] Extracted extension to file:///home/tisho/.vscode-server/extensions/ms-azuretools.vscode-azurestaticwebapps-0.12.2: ms-azuretools.vscode-azurestaticwebapps
+[14:01:37] Renamed to /home/tisho/.vscode-server/extensions/ms-azuretools.vscode-azurestaticwebapps-0.12.2
+[14:01:37] Extension installed successfully: ms-azuretools.vscode-azureresourcegroups file:///home/tisho/.vscode-server/extensions/extensions.json
+[14:01:37] Extension installed successfully: ms-azuretools.vscode-azurestaticwebapps file:///home/tisho/.vscode-server/extensions/extensions.json
+[14:01:44] [<unknown>][2cde7190][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[14:01:44] [<unknown>][38ed928a][ExtensionHostConnection] <2405> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[14:01:44] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[14:01:44] Last EH closed, waiting before shutting down
+[14:01:50] [<unknown>][9127f965][ManagementConnection] New connection established.
+[14:01:50] [<unknown>][107cec96][ExtensionHostConnection] New connection established.
+[14:01:50] [<unknown>][107cec96][ExtensionHostConnection] <2597> Launched Extension Host Process.

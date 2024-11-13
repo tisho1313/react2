@@ -1,0 +1,5 @@
+[credential]
+	helper = cache
+[user]
+	name = John Doe
+	email = tradenkoff@abv.bg
